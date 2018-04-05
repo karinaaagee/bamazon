@@ -21,5 +21,3 @@ An Application that displays item available for purchase that runs using Node an
 
 ![alt text](https://github.com/karinaaagee/bamazon/blob/master/images/Screen%20Shot%202018-03-16%20at%2010.03.35%20AM.png)
 
-
-![alt text](https://github.com/ruthieirl/bamazon/blob/master/images/complete.PNG)
